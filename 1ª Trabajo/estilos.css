@@ -1,0 +1,130 @@
+ @import url('https://fonts.googleapis.com/css?family=Montserrat:200,400,700');
+
+        *{
+           font-family: Montserrat, Verdana;
+           color: black;
+           text-decoration:none;
+        }
+         header {    
+             text-align: center;  
+          } 
+          h1{    
+             font-size: 35px; 
+          } 
+           #cabecera, a  {  
+           word-spacing: 0.5px;
+           font-size: 15px; 
+           margin-left: 10px; 
+           margin-right: 10px;
+           font-size: 16px; 
+
+          }
+           #u-cabecera {
+           padding-top: 0.1rem;
+           padding-bottom: 0.1rem;
+           padding-left: 0.5rem;
+           font-size: 22px;
+           color: #2eb82e;
+          }
+           #tiempo {    
+               color: grey;     
+               font-size: 12px;
+               padding-top: 0.2px;
+            } 
+            #candelario {    
+               border-style: solid;
+               border-width: 5px;
+               border-color: #bcbcbc; 
+               height:500px;
+               width:400px;
+               float: left;
+            } 
+            #publicidad {
+           text-align: center;
+           height:180px;
+           width:400px;
+           background:#a6a6a6;  
+           margin-left: 39px; 
+           color:white;
+           border-style: solid;
+           border-width: 5px;
+           border-color: #bcbcbc;
+           text-decoration: none;
+           position: absolute;
+           top: 685px;
+          }
+          .publi {
+            position: relative;
+            top:40px;
+            font-size: 30px;
+          }      
+          article {  
+                margin-left: 60px; 
+                margin-right: 60px;
+                padding-left: 60px; 
+                padding-right: 60px;   
+                color: black; 
+                margin-bottom: 3.5rem;
+            } 
+
+            .u-p {  
+                margin-left: 245px; 
+                padding-left: 245px; 
+                padding-bottom: 2px; 
+            }
+            .fff {  
+                margin-top: 2rem;
+                margin-left: 2.5rem; 
+            }  
+            #ladillo {
+           height:220px;
+           width:1030px;
+           background:#ccffff;  
+           color:black, bold;
+           border: 2px;
+           border-style: solid;
+           border-width: 5px;
+           border-color: #bcbcbc;
+           margin-left: 2.5rem;
+           margin-right: 2.5rem;
+          }
+          blockquote {    
+             text-align: left; 
+             font-size: 30px; 
+             font-family: Arial, sans-serif;
+             padding-left: 0.2rem; 
+             padding-top: : 0.2rem; 
+          }
+          #u-nav {  
+                font-size: 16px;
+                text-align: center;
+                border: 2px;
+                border-style: solid;
+                border-width: 5px;
+                border-color: #1affc6;
+                background-color: #1affc6; 
+                margin-left: 0.9rem;
+                margin-right: 0.9rem;
+                padding-top: 0.5rem;
+                padding-bottom: 0.5rem;
+                
+            }
+            #auno, #ados,  {    
+             padding-top: 2rem;
+             padding-bottom: 1rem;
+             padding-left: 0.5rem;
+             padding-right: : 0.5rem;
+          }  
+           #ados  {    
+             color: #0000ff;
+             padding-left: 0.5rem;
+          }
+          footer {    
+             text-align: center;  
+             padding-top: 1rem;
+             padding-bottom: 2rem;
+             font-size: 16px;
+          }  
+          figure, aside {    
+             border-radius: 3px;
+          } 
