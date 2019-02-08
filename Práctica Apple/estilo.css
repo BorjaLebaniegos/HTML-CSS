@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Sarabun:200,400,700');
+            
+html, body, * {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: "Sarabun", sans-serif;
+}		   
+header {
+    background-color: #313131;
+    width: 100%;
+    height: 2.6rem;
+    line-height: 2.9rem;
+	position: fixed;
+	text-align: center;
+}
+.cabe {
+    display: inline-block;
+    font-size: 0.88rem;
+    margin-right: 1.2rem;
+    margin-left: 1.2rem;
+	margin-top: -0.2rem;
+	padding-right: 1.1rem;
+    padding-left: 1.1rem;
+	overflow: hidden;
+}
+a:hover   {
+	color: rgb(184, 179, 179); 
+	cursor:hand; 
+}
+img.u-logos:hover   {
+	color: rgb(184, 179, 179);  
+}
+a  {
+    text-decoration: none;
+    color:white;
+}
+.u-logos  {
+    width: 100%;
+    height: 100%;	
+}
+main {
+    background-image: url("https://www.apple.com/v/home/dz/images/promos/iphone-shotOn/shot_on_iphone_small.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    background: #F2F2F2; 
+    position: relative;
+    bottom: 0;
+	color:#333;
+	font-size:11.5px;
+	padding-bottom:1em;
+}
+.p {
+	padding-top:1em;
+	padding-bottom:1em;
+	color:#888;
+}
+aside {
+    margin-left: 14rem;
+	margin-right: 14rem;
+	padding-top:0.6em;
+	padding-bottom:1em;
+	font-size:11px;
+	border-bottom: 0px solid #d6d6d6;
+}
+hr {
+	margin-left: 14rem;
+	margin-right: 14rem;
+	color:#d6d6d6;
+	}
+.options   {
+	color: rgb(97, 92, 92);  
+}
+.options:hover   {
+	color:rgb(97, 92, 92);  
+    text-decoration:underline;
+}
+section, nav {
+    display: inline-block;
+	text-decoration: none;	 	
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+.u-nav-footer {
+    display: inline-block;
+	text-decoration: none;	 	
+	margin-left: 2rem;
+	margin-right: 2rem;
+	font-size: 11.5px;
+}
+.u-section-footer {
+  margin-top: 1rem;
+}
+.u-nav-footer, ul, li {
+   display:block;
+   text-decoration: none;
+}
+
+#ppp  {
+	padding-top:2em;
+	margin-left: 14rem;
+	margin-right: 14rem;
+	border-bottom: 0px solid #d6d6d6;
+}
+.enlace-footer  {
+	color: #0070c9;  
+}
+.enlace-footer:hover  {
+	color: #0070c9;
+	text-decoration: underline;
+}
+h3  {
+	font-size: 11.5px;
+}
+.uuu-ul-class {
+	margin-left: 10rem;
+	margin-bottom: 0.8em;
+}
+.uu-ul-class {
+	margin-left: -3rem;
+	margin-bottom: 0.8em;
+}
+.u-ul-class {
+	margin-top: 1rem;
+  padding-bottom: 0.2rem;  
+   margin-left: -4rem;
+   margin-bottom: 0.8em;
+}
+.u-ul-class2, .u-ul-class3 {
+	margin-top: 0.1rem;
+    padding-bottom: 0.2rem; 
+    margin-left: -6rem;
+	margin-bottom: 0.8em;
+}
+.u-li {
+	margin-bottom: 0.8em;
+	color:#888;
+}
+.u-li:hover {
+	text-decoration: underline;
+}
+#nav-final  {
+	padding-bottom:2em;
+	margin-left: 12.5rem;
+}
+.ultimos-ul, .ultimos-li {
+	display: inline;
+	position: relative;
+	top: 5px;
+	bottom: 0px; 
+	margin-left: 2em;
+	color:#888;
+}
+.enlaces {
+    color:#333;
+}
+.enlaces:hover {
+    text-decoration: underline;
+	color:#333;
+}
+#bandera {
+	background-position: left;
+	padding-left: 130px;
+}
+a #z {
+	margin-bottom: 8px;
+}
